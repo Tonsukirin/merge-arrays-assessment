@@ -11,11 +11,6 @@ This project implements a `merge()` function in TypeScript that merges three int
 
 ### 1. Clone this repository
 
-```bash
-git clone https://github.com/your-username/merge-project.git
-cd merge-project
-```
-
 ### 2. install dependencies
 
 ```bash
