@@ -16,11 +16,11 @@ This project implements a `merge()` function in TypeScript that merges three int
 ```bash
 npm i
 ```
-this will install typescript, jest, ts-jest, and @types/jest
+this will install `typescript`, `jest`, `ts-jest`, and `@types/jest`
 
 ### 3. Run the test
 
 ```bash
 npm test
 ```
-uses Jest and ts-jest to run .ts test files
+uses `Jest` and `ts-jest` to run `.ts` test files
